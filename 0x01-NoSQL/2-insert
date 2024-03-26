@@ -1,2 +1,2 @@
-// Insert a document in the schooll collection. // db.createCollection("school")
-db.scholl.insert({name: "Hoberton school"});
+// Inserts a document in the school collection. // db.createCollection("school")
+db.school.insert({name: "Holberton school"});
